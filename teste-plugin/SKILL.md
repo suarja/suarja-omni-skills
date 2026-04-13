@@ -3,4 +3,6 @@ name: teste-plugin
 description: 
 ---
 
-Test commit 
+Test commit
+
+Authoring
